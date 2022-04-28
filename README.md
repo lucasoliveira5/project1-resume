@@ -1,2 +1,2 @@
-# project1-resume-html
-Currículo feito em HTML 
+# project1-resume
+Currículo feito em HTML e CSS
